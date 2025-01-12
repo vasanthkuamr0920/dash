@@ -187,7 +187,7 @@ def build_tab_1():
                                                         ),
                                                         dmc.HoverCardDropdown(
                                                             dmc.Text(
-                                                                "DISABLED: Change control limits in dashboard", size="sm", color='black'
+                                                                "DISABLED: Change control limits in dashboard", size="sm"'
                                                             )
                                                         ),
                                                     ]
